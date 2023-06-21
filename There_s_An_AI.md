@@ -18,6 +18,15 @@ This is a website that showcases various applications of artificial intelligence
 - Rate the project using the stars at the bottom of the page ✨
 - Leave a comment if you want to share your experience or ask a question ❓
 
+## Snapshots 📸
+
+Here are some snapshots of the website:
+
+![Home page](https://github.com/sachin-dtu/AI_Tool_All/blob/main/Home_There_.jpg)
+
+![Art category](https://github.com/sachin-dtu/AI_Tool_All/blob/main/About_There_all.jpg)
+
+
 ## Contact 📧
 
 If you have any questions, suggestions, or feedback, feel free to contact me at:
